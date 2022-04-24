@@ -1,2 +1,2 @@
 # Interface da Netflix
- Neste código recriei a interface simplificada da Netflix, utilizando HTML, CSS e JavaScript.
+ Neste código recriei a interface simplificada da Netflix utilizando HTML, CSS e JavaScript juntamente com jQuery.
